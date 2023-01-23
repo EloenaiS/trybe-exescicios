@@ -1,5 +1,6 @@
 h1 , p {
 text-align: center; 
+
 }
 
 li:hover {
@@ -13,3 +14,5 @@ font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
 ol, ul {
     list-style: none;
 }
+
+
